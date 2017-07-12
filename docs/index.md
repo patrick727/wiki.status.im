@@ -2,7 +2,7 @@
 
 Status is a free (libre) and open source mobile client targeting Android & iOS built, entirely on [Ethereum](https://ethereum.org/) technologies.
 
-Thanks to the new protocols Ethereum has introduced, there's a whole new ecosystem of applications being developed that are completely decentralised (also known as DApps), and Status aims to provide a user interface to access them. These decentralized applications remove the need for middlemen and centralised servers, providing a clear path forward towards an internet where users get to own their own data, and an economy built on permissionless, open protocols.
+Thanks to the new protocols Ethereum has introduced, there's a whole new [ecosystem of applications](https://dapps.ethercasts.com) being developed that are completely decentralised (also known as DApps), and Status aims to provide a user interface to access them. These decentralized applications remove the need for middlemen and centralised servers, providing a clear path forward towards an internet where users get to own their own data, and an economy built on permissionless, open protocols.
 
 It is our belief that messengers are evolving into a new type of OS, and are becoming gateways to our economies and social lives. Status uses messaging as a platform, and by combining both a messenger and a browser we are building a gateway for everyday smartphone users to begin using DApps, and a simple way for DApp developers to reach new users.
 
